@@ -12,7 +12,7 @@ The food aggregator company has collected data on various orders made by registe
 This repository contains three key files:
 - **FoodHub_Project.ipynb**: This is the Jupyter Notebook that contains the Python code used for data analysis. It includes all the steps and visualizations needed to derive insights from the data.
 - **FoodHub_Data.csv**: This is the dataset in CSV format that was imported into the notebook for analysis.
-- **FoodHub Project JasemRumman** This is the HTML file to browese the full project.
+- **index.html** This is the HTML file to browese the full project.
 
 ## Skills and Tools
 The following skills and tools were applied during the project:
